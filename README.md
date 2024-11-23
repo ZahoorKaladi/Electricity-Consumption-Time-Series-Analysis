@@ -9,6 +9,11 @@ This project analyzes the electricity consumption of various home appliances ove
 - **Visualization**: Visualizes the total and appliance-specific electricity consumption trends.
 - **Cleaning & Preprocessing**: Handles missing values and formats the data for analysis.
 
+## **Output**
+
+![Electricity Forcast for next 7 days](https://github.com/user-attachments/assets/edf8040a-cea6-4a1f-a3fa-ff9b537cbb02)
+
+
 ## **Installation**
 
 1. **Clone the repository:**
